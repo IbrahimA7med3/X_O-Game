@@ -1,0 +1,34 @@
+.game{
+    width: 252px;
+    text-align: center;
+    color: white;
+    margin: auto;
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 28px;
+}
+.title{
+background: rgb(2, 217, 255);
+padding: 12px 0;
+margin: 10px 0;
+}
+
+span{
+    color: rgb(250, 246, 6);
+    font-size: 26px;
+}
+
+.scor{
+    width: 80px;
+    height: 80px;
+    background:  rgb(2, 217, 255);
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+}
+
+.scor:hover{
+    background: rgb(80, 79, 79);
+    cursor: pointer;
+
+}
